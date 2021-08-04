@@ -1,0 +1,6 @@
+os: linux
+dist: focal
+arch: amd64
+
+language: ruby
+script: true
